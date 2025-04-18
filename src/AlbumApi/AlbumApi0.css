@@ -1,0 +1,10 @@
+.card{
+    display: inline-flex;
+    margin: 20px;
+    background-color: rgb(179, 254, 254);
+    border-radius:  8px;
+}
+#data{
+    text-align: center;
+    color: burlywood;
+}

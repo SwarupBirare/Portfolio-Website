@@ -1,0 +1,70 @@
+.container {
+    margin-bottom: 30px;
+    background-color: rgba(187, 187, 187, 0.562);
+    padding: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+    transition: transform 0.2s;
+    overflow: hidden;
+    padding: 0;
+    width: 260px;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img {
+    height: 180px;
+    overflow: hidden;
+  }
+  
+  .card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .topTemp {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .max {
+    font-size: 1.1rem;
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #007bff;
+  }
+  
+  .card-text .day {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.4;
+  }
+  

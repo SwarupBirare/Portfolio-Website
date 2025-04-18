@@ -1,0 +1,81 @@
+[
+    {
+        "id": 101,
+        "name": "Louis Philippe shirt",
+        "price": 2500,
+        "description": "Classic Louis Philippe shirt crafted with premium cotton for a soft and breathable feel.",
+        "img": "https://imagescdn.louisphilippe.com/img/app/product/9/920366-14512998.jpg?auto=format&w=390"
+    },
+
+    {
+        "id": 102,
+        "name": "Tommy Hilfiger shirt",
+        "price": 4200,
+        "description": "Designed for comfort and style, it features a sleek button-down front, embroidered TH logo, and a modern slim fit, making it perfect for both casual and semi-formal occasions.",
+        "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/16722552/2022/12/1/0dea34df-2198-4b1a-b04e-b066884672941669894594899-Tommy-Hilfiger-Men-Shirts-1961669894594357-1.jpg"
+    },
+
+    {
+        "id": 103,
+        "name": "Nike Unisex Hoodie",
+        "price": 2999,
+        "description": "Stay warm and stylish with this Nike pullover hoodie. Designed with soft fleece fabric, adjustable drawstrings, and a kangaroo pocket.",
+        "img": "https://i.ebayimg.com/images/g/wUkAAOSwic9m8cth/s-l1200.jpg"
+    },
+
+    {
+        "id": 104,
+        "name": "Levi's Denim Jeans",
+        "price": 3200,
+        "description": "Original Levi's slim-fit jeans made with durable denim. Offers a timeless look with stretchable comfort, perfect for everyday wear.",
+        "img": "https://levi.in/cdn/shop/files/A70870046_01_Front_55b8ffe8-851f-4e40-ba1d-876b3ab29dee.jpg?v=1740488431"
+    },
+
+    {
+        "id": 105,
+        "name": "Puma Shoes",
+        "price": 3549,
+        "description": "High-performance Puma running shoes designed for speed and comfort.",
+        "img": "https://assets.ajio.com/medias/sys_master/root/20220128/cAlW/61f40aa2aeb2695cdd38982a/-473Wx593H-469080717-black-MODEL.jpg"
+    },
+
+    {
+        "id": 106,
+        "name": "Pantaloons Men's Formal",
+        "price": 2100,
+        "description": "Stylish and comfortable formal pants from Pantaloons, crafted with premium poly-viscose blend fabric. Perfect for office wear or formal events.",
+        "img": "https://imagescdn.pantaloons.com/img/app/product/1/1008498-13599557.jpg?auto=format&w=450"
+    },
+    
+    {
+        "id": 107,
+        "name": "Allen Solly Polo T-shirt",
+        "price": 1699,
+        "description": "Casual yet classy polo T-shirt by Allen Solly, made with rich cotton fabric and featuring a subtle logo embroidery. Ideal for weekend outings.",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwOUeC7cEqxMuWdX-b79nVQvoX2G2qDIz5Iag6vd1_G6esfsqj7fJJg9Diwy_0BZJNy7fzklTnTzL8hUzgpiF5bHWkLflAUQb5CWahALU"
+    },
+
+    {
+        "id": 108,
+        "name": "Roadster Leather Jacket",
+        "price": 4599,
+        "description": "A rugged leather jacket from Roadster designed for style and durability. Features zip closures and a stand collar for a bold look.",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlgDvFKMeUWuSD1TQgzFf-aPmesKnjQ0IXuIGn5igH2t4k8PqsNSXtvQybSj6efRV0ff8wKXchl9mybDnI_WLbcqJvSLIuTl8hykRXnHTb-1YXzp9h8e_5Bg&usqp=CAc"
+   },
+
+    {
+        "id": 109,
+        "name": "HRX Training Shorts",
+        "price": 1099,
+        "description": "Lightweight and breathable training shorts by HRX. Perfect for workouts and running, with moisture-wicking fabric and an adjustable waistband.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueYOB3_Av5inJY1CeQYbr2aBMWZwjLi5ogA&s"
+    },
+
+    {
+        "id": 110,
+        "name": "Raymond Men's Blazer",
+        "price": 6999,
+        "description": "Tailored Raymond blazer that adds a touch of sophistication to your formal ensemble. Designed with a structured fit and classic detailing.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWbTDIaSfi9MuRXEJLuYAdkDE6CrSyHjUm7Q&s"    
+    }
+]
